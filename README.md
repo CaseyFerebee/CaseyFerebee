@@ -1,0 +1,12 @@
+- 👋 Hi, I’m CaseyFerebee
+- 👀 I’m a technology professional with experience in web application and software development
+- 🌱 I’m currently proficient with a combination of frontend and backend technologies, including: HTML, CSS, JavaScript, React, Python, and Django.
+- 💞️ I’m looking to collaborate on any projects that will push me to learn new skills and find novel solutions to challenging problems.
+- 📫 How to reach me
+    - https://www.linkedin.com/in/casey-ferebee/
+    - cwferebee@gmail.com
+
+<!---
+CaseyFerebee/CaseyFerebee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
